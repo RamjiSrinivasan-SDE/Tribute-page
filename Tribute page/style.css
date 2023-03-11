@@ -1,0 +1,26 @@
+*{
+    margin: auto;;
+    padding: 0%;
+    background-color: peachpuff;
+    display: grid;
+    align-items: center;
+    box-sizing: border-box;
+
+
+}
+.Images{
+    margin: auto;
+}
+#PersonalHistory,#Achievementsslide{
+ background-color: aqua;
+}
+.Container1,.Container2{
+    border: 5px solid black;
+}
+.Footer{
+    background-color: chartreuse;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font: bold;
+}
